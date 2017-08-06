@@ -6,7 +6,7 @@ var myCar = {
 
     color : "blue",
     speed : 200,
-    //method or subrutin
+    //method or subroutine
     dirve : function(){return " dirve" ;},
     engine : {
         size : 2.5,
